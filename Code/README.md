@@ -87,7 +87,7 @@ python cluster.py --embedding_path embedding_arxiv.pt --output submit.txt --k 15
 # 文件夹目录
 
 ```
-Code
+
 ├── fast_pytorch_kmeans
 │   ├── init_methods.py
 │   ├── __init__.py
